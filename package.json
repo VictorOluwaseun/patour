@@ -1,0 +1,25 @@
+{
+  "name": "patour",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000p\u0000a\u0000t\u0000o\u0000u\u0000r\u0000\r\u0000 \u0000",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorpro4C/patour.git"
+  },
+  "keywords": [
+    "Tours"
+  ],
+  "author": "Adewumi Victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorpro4C/patour/issues"
+  },
+  "homepage": "https://github.com/victorpro4C/patour#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
